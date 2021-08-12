@@ -1,8 +1,9 @@
 # Well What's Wrong With That
-## A repository of musings about various controversial topics:
+## A repository of disruptive musings
 - [Belief](/Belief)
 - [Source of reality](/Source_of_reality)
 - [Consciousness](/Consciousness)
+- [Intelligence](/Intelligence)
 - [Evolution](/Evolution)
 - [Meritocracy](/Meritocracy)
 - [Homelessness](/Homelessness)
