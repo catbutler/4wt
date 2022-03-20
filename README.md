@@ -1,5 +1,5 @@
-# Well What's Wrong With That
-## A repository of disruptive musings
+# What cud I chews
+## Ruminations on the puzzle of being
 - [Belief](/Belief)
 - [Source of reality](/Source_of_reality)
 - [Consciousness](/Consciousness)
